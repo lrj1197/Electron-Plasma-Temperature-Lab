@@ -1,0 +1,12 @@
+
+Things learned about python from just this lab:
+    advanced threading
+    gloabl variables 
+    pyvisa 
+    file I/O 
+    os operations
+    lots of curvefitting
+    data scurbbing
+    plotting
+    strings/arrays/loops/conditional statements
+    OOP
